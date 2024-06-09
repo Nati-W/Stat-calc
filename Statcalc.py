@@ -192,4 +192,3 @@ data = {
     4: 8,
     5: 10
 }
-print(Statcalc.r(data))
